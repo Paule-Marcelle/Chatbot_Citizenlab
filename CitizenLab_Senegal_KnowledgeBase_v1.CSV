@@ -1,0 +1,54 @@
+intent,theme,question,answer,source
+info_generale,institution,Qu’est-ce que CitizenLab Sénégal ?,CitizenLab Sénégal est un hub d’innovation civique porté par AfricTivistes visant à renforcer la participation citoyenne grâce au numérique.,FAQ initiale
+info_generale,institution,Quel est le lien entre CitizenLab Sénégal et AfricTivistes ?,CitizenLab Sénégal est un programme stratégique porté par AfricTivistes une organisation panafricaine de la société civile.,FAQ initiale
+mission_vision,institution,Quelle est la mission de CitizenLab Sénégal ?,Renforcer la participation citoyenne et promouvoir une gouvernance ouverte à travers les technologies numériques.,Présentation CitizenLab
+mission_vision,institution,Quelle est la vision de CitizenLab Sénégal ?,Construire un Sénégal numérique inclusif participatif et durable.,Présentation CitizenLab
+valeurs,institution,Quelles sont les valeurs de CitizenLab Sénégal ?,Citoyenneté inclusion transparence innovation collaboration et impact social.,Document stratégique
+gouvernance,institution,CitizenLab Sénégal est-il politiquement neutre ?,Oui CitizenLab Sénégal est politiquement neutre et indépendant de tout parti politique.,FAQ initiale
+gouvernance,institution,Comment CitizenLab Sénégal est-il gouverné ?,CitizenLab Sénégal fonctionne avec une gouvernance collaborative impliquant coordination équipe et partenaires.,Document stratégique
+strategie,strategie,Quels sont les objectifs stratégiques de CitizenLab Sénégal ?,Former les citoyens développer des solutions civic-tech renforcer la transparence et réduire la fracture numérique.,Plan d’activités
+strategie,strategie,Quels problèmes CitizenLab Sénégal cherche-t-il à résoudre ?,La fracture numérique le faible accès à l’information publique et la participation citoyenne limitée.,Présentation CitizenLab
+strategie,strategie,Quelle est l’ambition globale de CitizenLab Sénégal ?,Devenir un acteur clé de l’écosystème civic-tech et de la gouvernance ouverte au Sénégal.,Présentation CitizenLab
+zones,strategie,Où intervient CitizenLab Sénégal ?,CitizenLab Sénégal intervient à Dakar et dans plusieurs régions du Sénégal y compris les zones rurales.,FAQ initiale
+programmes,strategie,Quels sont les axes d’intervention de CitizenLab Sénégal ?,Formation et sensibilisation innovation et transparence digitalisation et accessibilité.,Présentation CitizenLab
+programmes,strategie,En quoi consiste l’axe formation et sensibilisation ?,Il vise à renforcer la littératie numérique l’éducation civique et la sécurité en ligne.,Plan d’activités
+programmes,strategie,En quoi consiste l’axe innovation et transparence ?,Il vise à développer des plateformes citoyennes et des outils de suivi de l’action publique.,Présentation CitizenLab
+programmes,strategie,En quoi consiste l’axe accessibilité numérique ?,Il vise à réduire la fracture numérique par des solutions inclusives et communautaires.,Plan d’activités
+publics,inclusion,Quels publics sont ciblés par CitizenLab Sénégal ?,Les jeunes les femmes les organisations citoyennes les journalistes et les communautés locales.,Document stratégique
+inclusion,inclusion,Pourquoi CitizenLab cible-t-il les femmes et les jeunes ?,Parce qu’ils sont souvent sous-représentés dans la transition numérique et la gouvernance.,Présentation CitizenLab
+formation,formation,Quels types de formations propose CitizenLab ?,Citoyenneté numérique data intelligence artificielle développement web cybersécurité et innovation civique.,Plan d’activités
+formation_detaillee,formation,Quels formats de formation sont utilisés ?,Ateliers bootcamps hackathons formations hybrides et sessions pratiques.,Plan d’activités
+formation_detaillee,formation,Les formations CitizenLab sont-elles gratuites ?,Oui la majorité des formations sont gratuites pour les bénéficiaires sélectionnés.,FAQ initiale
+formation_detaillee,formation,CitizenLab propose-t-il des formations en zones rurales ?,Oui des formations mobiles et décentralisées sont organisées dans les zones rurales.,Plan d’activités
+formation_detaillee,formation,Les formations sont-elles certifiantes ?,Certaines formations donnent lieu à des attestations selon les partenariats.,Plan d’activités
+suivi,formation,CitizenLab assure-t-il un suivi après les formations ?,Oui un accompagnement post-formation est mis en place pour renforcer l’impact.,FAQ initiale
+impact,impact,Comment CitizenLab Sénégal mesure-t-il son impact ?,À travers des indicateurs qualitatifs de participation d’appropriation et d’usage des outils.,Plan d’activités
+impact,impact,Quel changement CitizenLab Sénégal vise-t-il ?,Un renforcement durable de la participation citoyenne et de la transparence publique.,Document stratégique
+technologie,technologie,CitizenLab développe-t-il des plateformes numériques ?,Oui CitizenLab conçoit des plateformes citoyennes et open data.,FAQ initiale
+open_data,gouvernance,Quel est le rôle de l’open data chez CitizenLab ?,L’open data favorise la transparence l’accès à l’information et la redevabilité.,Présentation CitizenLab
+ia,technologie,CitizenLab utilise-t-il l’intelligence artificielle ?,Oui pour les chatbots l’analyse de données et les outils citoyens.,FAQ initiale
+ia,ethique,CitizenLab promeut-il une IA responsable ?,Oui CitizenLab adopte une approche éthique inclusive et transparente de l’IA.,Document stratégique
+chatbot,technologie,À quoi sert le chatbot CitizenLab ?,Informer orienter les citoyens et améliorer l’accès à l’information publique.,Conception Chatbot
+chatbot,technologie,Le chatbot est-il disponible en continu ?,Oui le chatbot est accessible 24 heures sur 24.,FAQ initiale
+chatbot,ethique,Le chatbot remplace-t-il l’équipe humaine ?,Non le chatbot complète le travail de l’équipe sans la remplacer.,FAQ initiale
+chatbot,ethique,Le chatbot collecte-t-il des données personnelles ?,Uniquement avec le consentement de l’utilisateur et dans le respect des règles de protection des données.,FAQ initiale
+chatbot,fonctionnement,Que faire si le chatbot ne répond pas ?,Le chatbot redirige vers un contact humain ou un formulaire.,FAQ initiale
+equipe,equipe,Comment est composée l’équipe CitizenLab Sénégal ?,Une équipe pluridisciplinaire en data IA développement cybersécurité design et communication.,Présentation CitizenLab
+competences,equipe,Quelles sont les compétences globales de l’équipe ?,IA data science développement cybersécurité UX UI communication et gestion de projets.,Présentation CitizenLab
+equipe,equipe,Qui est Thierno Bocar Dieng ?,Thierno Bocar Dieng est data scientist et AI developer engagé pour l’innovation africaine.,Présentation CitizenLab
+competences,equipe,Quelles sont les compétences de Thierno Bocar Dieng ?,Data science intelligence artificielle automatisation et innovation numérique.,Présentation CitizenLab
+equipe,equipe,Qui est Penda Fall ?,Penda Fall est coordinatrice de CitizenLab Sénégal et experte en cybersécurité et innovation sociale.,Présentation CitizenLab
+competences,equipe,Quelles sont les compétences de Penda Fall ?,Cybersécurité systèmes d’information IoT et gestion de projets techniques.,Présentation CitizenLab
+equipe,equipe,Qui est Paule Marcelle Elanga ?,Paule Marcelle Elanga est data scientist spécialisée en IA et machine learning.,Présentation CitizenLab
+competences,equipe,Quelles sont les compétences de Paule Marcelle Elanga ?,Analyse de données NLP computer vision et formation.,Présentation CitizenLab
+equipe,equipe,Qui est Ndèye Kany Cissé ?,Ndèye Kany Cissé est développeuse web mobile et designer graphique.,Présentation CitizenLab
+competences,equipe,Quelles sont les compétences de Ndèye Kany Cissé ?,Développement web mobile design graphique et optimisation SEO.,Présentation CitizenLab
+equipe,equipe,Qui est Mamadou Diop ?,Mamadou Diop est spécialiste en communication numérique et contenus multimédias.,Présentation CitizenLab
+competences,equipe,Quelles sont les compétences de Mamadou Diop ?,Communication digitale design graphique et production multimédia.,Présentation CitizenLab
+partenariat,collaboration,CitizenLab est-il ouvert aux partenariats ?,Oui CitizenLab est ouvert aux partenariats techniques institutionnels et académiques.,FAQ initiale
+partenariat,collaboration,Qui peut devenir partenaire de CitizenLab ?,ONG institutions publiques universités entreprises et communautés tech.,Présentation CitizenLab
+recherche,recherche,CitizenLab mène-t-il des activités de recherche ?,Oui des travaux de recherche appliquée sont menés sur le numérique citoyen.,FAQ initiale
+ethique,juridique,Comment CitizenLab protège-t-il les données personnelles ?,Par des pratiques de sécurité numérique et le respect des réglementations en vigueur.,Document stratégique
+ethique,juridique,Le chatbot fournit-il des conseils juridiques ?,Non le chatbot fournit uniquement des informations générales.,FAQ initiale
+multilingue,accessibilite,Le chatbot est-il multilingue ?,Progressivement français anglais et langues locales.,FAQ initiale
+evolution,chatbot,Le chatbot peut-il évoluer ?,Oui il est continuellement amélioré grâce aux retours utilisateurs.,Conception Chatbot
