@@ -50,20 +50,8 @@ Avantages :
 ---
 
 ## 🏗️ Architecture Technique (Open Source)
+Utilisateur → Widget Chat (React) → Backend API (FastAPI) → Orchestrateur IA (LangChain / LlamaIndex) → LLM Open Source → Base Vectorielle (ChromaDB / FAISS) → Base de connaissances (CSV, PDF, Docs)
 
-Utilisateur
-↓
-Widget Chat (React)
-↓
-Backend API (FastAPI)
-↓
-Orchestrateur IA (LangChain / LlamaIndex)
-↓
-LLM Open Source
-↓
-Base Vectorielle (ChromaDB / FAISS)
-↓
-Base de connaissances (CSV, PDF, Docs)
 
 
 ---
