@@ -1,3 +1,4 @@
+intent,category,question,answer,source
 info_generale,institution,Qu’est-ce que CitizenLab Sénégal ?,CitizenLab Sénégal est un hub d’innovation civique porté par AfricTivistes visant à renforcer la participation citoyenne et l’innovation numérique.,FAQ officielle
 info_generale,institution,Quel est le rôle de CitizenLab Sénégal ?,CitizenLab Sénégal agit comme un espace de formation de co-création et d’expérimentation de solutions numériques citoyennes.,Présentation institutionnelle
 institution,institution,Quel est le lien entre CitizenLab Sénégal et AfricTivistes ?,CitizenLab Sénégal est un programme stratégique mis en œuvre par AfricTivistes organisation panafricaine de la société civile.,FAQ officielle
@@ -74,7 +75,7 @@ chatbot,fonctionnement,Le chatbot peut-il être multilingue ?,Oui progressivemen
 chatbot,usage,À qui s’adresse le chatbot ?,Aux citoyens partenaires chercheurs et bénéficiaires.,Conception chatbot
 chatbot,usage,Le chatbot est-il utilisé pour l’orientation ?,Oui pour guider vers les programmes et ressources.,Conception chatbot
 equipe,organisation,Comment est structurée l’équipe CitizenLab Sénégal ?,CitizenLab Sénégal dispose d’une équipe pluridisciplinaire combinant compétences techniques sociales et organisationnelles.,Présentation institutionnelle
-equipe,organisation,Pourquoi une équipe pluridisciplinaire est-elle importante ?,Elle permet de répondre à des défis complexes avec des solutions complètes et adaptées.,Document stratégique
+equipe,organisation,Pourquoi une équipe pluridisciplinaire est-elle importante ?,Elle permetpush de répondre à des défis complexes avec des solutions complètes et adaptées.,Document stratégique
 leadership,organisation,Quel est le rôle du leadership dans CitizenLab ?,Orienter la vision coordonner les actions et garantir l’impact social.,Présentation officielle
 coordination,organisation,Comment la coordination des équipes est-elle assurée ?,Par une gestion de projet agile et des outils collaboratifs.,Plan d’activités
 competences,equipe,Quelles compétences clés composent l’équipe ?,IA data développement cybersécurité communication et gestion de projets.,FAQ officielle
