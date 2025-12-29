@@ -1,3 +1,4 @@
+intent,category,question,answer,source
 info_generale,institution,Qu’est-ce que CitizenLab Sénégal ?,CitizenLab Sénégal est un hub d’innovation civique porté par AfricTivistes visant à renforcer la participation citoyenne et l’innovation numérique.,FAQ officielle
 info_generale,institution,Quel est le rôle de CitizenLab Sénégal ?,CitizenLab Sénégal agit comme un espace de formation de co-création et d’expérimentation de solutions numériques citoyennes.,Présentation institutionnelle
 institution,institution,Quel est le lien entre CitizenLab Sénégal et AfricTivistes ?,CitizenLab Sénégal est un programme stratégique mis en œuvre par AfricTivistes organisation panafricaine de la société civile.,FAQ officielle
@@ -74,7 +75,7 @@ chatbot,fonctionnement,Le chatbot peut-il être multilingue ?,Oui progressivemen
 chatbot,usage,À qui s’adresse le chatbot ?,Aux citoyens partenaires chercheurs et bénéficiaires.,Conception chatbot
 chatbot,usage,Le chatbot est-il utilisé pour l’orientation ?,Oui pour guider vers les programmes et ressources.,Conception chatbot
 equipe,organisation,Comment est structurée l’équipe CitizenLab Sénégal ?,CitizenLab Sénégal dispose d’une équipe pluridisciplinaire combinant compétences techniques sociales et organisationnelles.,Présentation institutionnelle
-equipe,organisation,Pourquoi une équipe pluridisciplinaire est-elle importante ?,Elle permet de répondre à des défis complexes avec des solutions complètes et adaptées.,Document stratégique
+equipe,organisation,Pourquoi une équipe pluridisciplinaire est-elle importante ?,Elle permetpush de répondre à des défis complexes avec des solutions complètes et adaptées.,Document stratégique
 leadership,organisation,Quel est le rôle du leadership dans CitizenLab ?,Orienter la vision coordonner les actions et garantir l’impact social.,Présentation officielle
 coordination,organisation,Comment la coordination des équipes est-elle assurée ?,Par une gestion de projet agile et des outils collaboratifs.,Plan d’activités
 competences,equipe,Quelles compétences clés composent l’équipe ?,IA data développement cybersécurité communication et gestion de projets.,FAQ officielle
@@ -164,3 +165,115 @@ gouvernance,donnees,Les contenus sont-ils versionnés ?,Oui pour assurer la tra�
 institutionnel,confiance,Pourquoi faire confiance au chatbot ?,Parce qu’il repose sur des documents officiels.,Crédibilité institutionnelle
 institutionnel,confiance,Le chatbot est-il transparent ?,Oui sur ses limites et sources.,Charte IA
 institutionnel,confiance,Le chatbot renforce-t-il la confiance citoyenne ?,Oui par l’accès clair à l’information.,Impact social
+usage,citoyen,Comment un citoyen peut-il utiliser CitizenLab ?,En participant aux formations en utilisant les plateformes et en proposant des idées citoyennes.,Documents institutionnels
+usage,citoyen,À quoi CitizenLab sert-il concrètement pour un citoyen ?,À mieux comprendre agir et participer à la vie publique via le numérique.,Présentation CitizenLab
+usage,citoyen,CitizenLab est-il utile si je ne suis pas technicien ?,Oui CitizenLab est accessible à tous les profils.,FAQ
+usage,citoyen,Comment CitizenLab aide les jeunes ?,Par la formation l’orientation et l’accompagnement de projets.,Plan d’activités
+usage,citoyen,Comment CitizenLab aide les femmes ?,Par des programmes inclusifs et ciblés.,Stratégie inclusion
+usage,citoyen,Est-ce que CitizenLab est réservé à Dakar ?,Non il agit aussi en régions et zones rurales.,FAQ
+usage,citoyen,Comment signaler un problème citoyen ?,Via les plateformes ou ateliers participatifs.,Présentation plateforme
+usage,citoyen,Puis-je proposer une idée de projet ?,Oui lors des ateliers hackathons ou programmes.,Plan innovation
+usage,citoyen,Les citoyens sont-ils écoutés ?,Oui la participation est au cœur de la méthodologie.,Vision CitizenLab
+usage,citoyen,CitizenLab remonte-t-il les besoins aux autorités ?,Oui dans une logique de dialogue citoyen.,Documents institutionnels
+formation,operationnel,Comment se déroule une formation CitizenLab ?,Par des sessions pratiques encadrées par des experts.,Plan de formation
+formation,operationnel,Quelle est la durée moyenne d’une formation ?,De quelques jours à plusieurs semaines selon le programme.,Plan d’activités
+formation,operationnel,Y a-t-il des prérequis ?,Non sauf motivation et engagement.,FAQ
+formation,operationnel,Les formations sont-elles certifiantes ?,Certaines formations délivrent des attestations.,Plan de formation
+formation,operationnel,Les formations sont-elles en présentiel ?,Oui et parfois hybrides.,Organisation programmes
+formation,operationnel,Les formations sont-elles en ligne ?,Certaines formations sont disponibles en ligne.,MOOC CitizenLab
+formation,operationnel,Qui anime les formations ?,Les membres de l’équipe et des experts partenaires.,Organisation interne
+formation,operationnel,Les participants travaillent-ils en groupe ?,Oui le travail collaboratif est encouragé.,Méthodologie
+formation,operationnel,Les projets sont-ils évalués ?,Oui selon des critères d’impact et de faisabilité.,Plan d’activités
+formation,operationnel,Les meilleurs projets sont-ils accompagnés ?,Oui après les formations.,Programme d’accompagnement
+institutionnel,partenaires,Pourquoi un partenaire devrait travailler avec CitizenLab ?,Pour son expertise son ancrage local et son impact.,Présentation institutionnelle
+institutionnel,partenaires,Que gagne une institution publique ?,Des outils numériques et une meilleure participation citoyenne.,Documents partenaires
+institutionnel,partenaires,CitizenLab est-il fiable pour un bailleur ?,Oui grâce à sa gouvernance et son sérieux institutionnel.,Documents officiels
+institutionnel,partenaires,Comment initier un partenariat ?,En contactant l’équipe CitizenLab.,FAQ
+institutionnel,partenaires,Les partenariats sont-ils formalisés ?,Oui par des conventions ou accords.,Gouvernance
+institutionnel,partenaires,CitizenLab rend-il compte de ses activités ?,Oui via des rapports.,Transparence
+institutionnel,partenaires,Les partenaires participent-ils aux activités ?,Oui selon les projets.,Plan d’activités
+institutionnel,partenaires,CitizenLab peut-il co-créer avec des partenaires ?,Oui c’est un principe clé.,Innovation ouverte
+institutionnel,partenaires,CitizenLab respecte-t-il les exigences institutionnelles ?,Oui.,Charte institutionnelle
+institutionnel,partenaires,CitizenLab est-il reconnu ?,Oui par son réseau et ses actions.,Crédibilité
+technique,ia,Pourquoi utiliser l’IA dans CitizenLab ?,Pour automatiser améliorer l’accès à l’information.,Vision technologique
+technique,ia,L’IA remplace-t-elle l’humain ?,Non elle assiste l’humain.,Charte IA
+technique,ia,Quelle IA est utilisée ?,IA conversationnelle et analyse de données.,Architecture technique
+technique,ia,Les données sont-elles locales ?,Oui selon les règles de gouvernance.,Politique données
+technique,ia,L’IA est-elle éthique ?,Oui selon les principes CitizenLab.,Charte éthique
+technique,ia,Les modèles sont-ils transparents ?,Oui dans la mesure du possible.,Gouvernance IA
+technique,ia,Le chatbot peut-il être audité ?,Oui.,Traçabilité
+technique,ia,Le chatbot peut-il se tromper ?,Rarement et sans inventer.,Approche RAG
+technique,ia,Comment éviter les hallucinations ?,Grâce au RAG.,Architecture RAG
+technique,ia,Le chatbot cite-t-il ses sources ?,Oui en interne.,Base documentaire
+terrain,operations,Comment CitizenLab agit sur le terrain ?,Via ateliers formations et communautés locales.,Plan terrain
+terrain,operations,Les actions sont-elles participatives ?,Oui.,Méthodologie
+terrain,operations,CitizenLab travaille-t-il avec les leaders locaux ?,Oui.,Approche communautaire
+terrain,operations,Les activités sont-elles évaluées ?,Oui.,Suivi-évaluation
+terrain,operations,Les communautés sont-elles autonomisées ?,Oui c’est un objectif.,Vision impact
+terrain,operations,Les projets sont-ils co-construits ?,Oui.,Co-design
+terrain,operations,Les citoyens décident-ils ?,Oui ils participent aux décisions.,Gouvernance citoyenne
+terrain,operations,Les jeunes sont-ils moteurs ?,Oui.,Stratégie jeunesse
+terrain,operations,Les femmes sont-elles impliquées ?,Oui.,Stratégie genre
+terrain,operations,Les zones rurales sont-elles incluses ?,Oui.,Inclusion territoriale
+general,faq,Qu’est-ce que le CitizenLab au quotidien ?,Un espace d’apprentissage d’innovation et de collaboration citoyenne.,Documents institutionnels
+general,faq,CitizenLab est-il un lieu physique ?,Oui avec des activités en présentiel et en ligne.,Présentation CitizenLab
+general,faq,CitizenLab est-il une organisation ?,CitizenLab est un programme porté par AfricTivistes.,FAQ officielle
+general,faq,Peut-on visiter CitizenLab ?,Oui lors d’événements ou sur invitation.,Communication officielle
+general,faq,CitizenLab travaille-t-il avec les médias ?,Oui pour sensibiliser et informer.,Plan communication
+general,faq,CitizenLab publie-t-il des rapports ?,Oui des rapports d’activités et d’impact.,Transparence
+general,faq,Comment suivre les actualités CitizenLab ?,Via les réseaux sociaux et canaux officiels.,Communication
+general,faq,CitizenLab est-il reconnu au niveau régional ?,Oui dans les réseaux civic-tech africains.,Présentation institutionnelle
+general,faq,CitizenLab est-il affilié à un parti politique ?,Non totalement indépendant.,Charte éthique
+general,faq,CitizenLab reçoit-il des financements ?,Oui via des partenaires et projets.,Documents institutionnels
+
+citoyen,usage,Comment un citoyen non connecté peut-il participer ?,Via les activités terrain et formations présentielles.,Plan terrain
+citoyen,usage,CitizenLab est-il utile aux personnes peu alphabétisées ?,Oui grâce à des approches adaptées.,Inclusion
+citoyen,usage,Les citoyens décident-ils des thématiques ?,Oui lors des consultations et ateliers.,Méthodologie participative
+citoyen,usage,Comment CitizenLab écoute les citoyens ?,Par des enquêtes ateliers et plateformes.,Outils participatifs
+citoyen,usage,Les idées citoyennes sont-elles suivies ?,Oui selon leur faisabilité.,Plan innovation
+citoyen,usage,Les citoyens peuvent-ils devenir formateurs ?,Oui après parcours et sélection.,Programme formateurs
+citoyen,usage,CitizenLab soutient-il les initiatives locales ?,Oui fortement.,Vision impact
+citoyen,usage,Les citoyens reçoivent-ils un accompagnement ?,Oui mentorat et suivi.,Plan d’activités
+citoyen,usage,Les citoyens peuvent-ils utiliser les outils gratuitement ?,Oui.,FAQ
+citoyen,usage,CitizenLab crée-t-il des communautés locales ?,Oui des communautés engagées.,Approche communautaire
+
+formation,detail,Les formations sont-elles pratiques ?,Oui orientées vers l’action.,Méthodologie
+formation,detail,Les formations incluent-elles des études de cas ?,Oui basées sur des cas réels.,Plan pédagogique
+formation,detail,Les participants travaillent-ils sur des données réelles ?,Oui lorsque possible.,Open data
+formation,detail,Les formations évoluent-elles ?,Oui selon les besoins.,Amélioration continue
+formation,detail,Les formations incluent-elles l’IA ?,Oui de plus en plus.,Roadmap
+formation,detail,Les formations incluent-elles la cybersécurité ?,Oui.,Programme
+formation,detail,Les formations incluent-elles l’éthique numérique ?,Oui.,Charte éthique
+formation,detail,Les formations sont-elles évaluées ?,Oui.,Suivi pédagogique
+formation,detail,Les formations favorisent-elles l’emploi ?,Oui par les compétences.,Impact social
+formation,detail,Les formations favorisent-elles l’entrepreneuriat ?,Oui.,Innovation sociale
+institution,strategie,Quelle est la stratégie long terme de CitizenLab ?,Créer un écosystème numérique citoyen durable.,Vision stratégique
+institution,strategie,CitizenLab s’inscrit-il dans une vision panafricaine ?,Oui.,Vision AfricTivistes
+institution,strategie,CitizenLab vise-t-il l’autonomie locale ?,Oui.,Durabilité
+institution,strategie,Quelle est la valeur ajoutée institutionnelle ?,Expertise innovation et participation.,Présentation
+institution,strategie,CitizenLab renforce-t-il la gouvernance ?,Oui.,Impact institutionnel
+institution,strategie,CitizenLab est-il aligné avec les ODD ?,Oui.,Documents stratégiques
+institution,strategie,CitizenLab contribue-t-il à la démocratie ?,Oui.,Mission
+institution,strategie,CitizenLab agit-il sur la redevabilité ?,Oui.,Transparence
+institution,strategie,CitizenLab influence-t-il les politiques publiques ?,Indirectement.,Impact
+institution,strategie,CitizenLab est-il un acteur de référence ?,Oui.,Crédibilité
+tech,rag,Pourquoi structurer une base RAG ?,Pour des réponses fiables et traçables.,Architecture IA
+tech,rag,La base RAG contient-elle des doublons ?,Oui volontairement pour la robustesse.,Bonne pratique RAG
+tech,rag,La base RAG est-elle mise à jour ?,Oui.,Gouvernance
+tech,rag,Peut-on ajouter de nouveaux CSV ?,Oui.,Architecture
+tech,rag,Le chatbot peut-il changer de ton ?,Oui selon le contexte.,Prompt engineering
+tech,rag,Le chatbot comprend-il des fautes ?,Oui.,NLP
+tech,rag,Le chatbot comprend-il le langage simple ?,Oui.,Accessibilité
+tech,rag,Le chatbot comprend-il le wolof ?,À terme.,Roadmap
+tech,rag,Le chatbot fonctionne-t-il hors ligne ?,Non.,Limites techniques
+tech,rag,Le chatbot est-il hébergé localement ?,Selon l’architecture.,Options techniques
+ethique,confiance,Le chatbot explique-t-il ses limites ?,Oui.,Charte IA
+ethique,confiance,Le chatbot peut-il dire “je ne sais pas” ?,Oui.,Sécurité IA
+ethique,confiance,Le chatbot est-il transparent ?,Oui.,Gouvernance
+ethique,confiance,Le chatbot est-il fiable ?,Oui car basé sur documents.,RAG
+ethique,confiance,Le chatbot renforce-t-il la confiance ?,Oui.,Impact
+ethique,confiance,Le chatbot respecte-t-il la neutralité ?,Oui.,Charte
+ethique,confiance,Le chatbot respecte-t-il la vie privée ?,Oui.,Politique données
+ethique,confiance,Le chatbot stocke-t-il des données sensibles ?,Non.,Sécurité
+ethique,confiance,Le chatbot peut-il être désactivé ?,Oui.,Contrôle
+ethique,confiance,Le chatbot est-il supervisé ?,Oui.,Gouvernance
