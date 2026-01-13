@@ -28,7 +28,7 @@ groq = GroqLLM(
 
 # Question
 result = groq.generate(
-    question="Qu’est-ce que CitizenLab Sénégal ?"
+    question="Qui est le president du Sénégal ?"
 )
 
 print("Réponse :", result)

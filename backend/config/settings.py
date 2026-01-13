@@ -20,7 +20,7 @@ GROQ_API_KEY = os.getenv("GROQ_API_KEY")  # Clé Groq
 # --------------------------
 # Hôtes autorisés
 # --------------------------
-ALLOWED_HOSTS = os.getenv("DJANGO_ALLOWED_HOSTS", "").split(",")  # exemple : "localhost,127.0.0.1"
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
 
 # --------------------------
 # Applications installées
@@ -33,6 +33,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
+    'drf_yasg',
     'apps.chatbot',
 ]
 
