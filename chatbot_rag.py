@@ -144,7 +144,7 @@ class ChatbotRAG:
             for i, doc in enumerate(context_docs)
         ])
         
-        system_prompt = f"""Tu es un assistant conversationnel expert sur CitizenLab Sénégal et les initiatives de gouvernance numérique en Afrique.
+        system_prompt = f"""Tu es un assistant conversationnel expert sur CitizenLab Sénégal et la participation citoyenne au Senegal.
 
 CONTEXTE PERTINENT:
 {context_text}
@@ -206,7 +206,7 @@ INSTRUCTIONS:
 def main():
     """Fonction principale"""
     print("=" * 60)
-    print("🤖 CHATBOT RAG CITIZENLAB SÉNÉGAL (VERSION SÉCURISÉE)")
+    print("🤖 CHATBOT RAG CITIZENLAB SÉNÉGAL")
     print("=" * 60)
     
     # ✅ Charger depuis .env automatiquement
