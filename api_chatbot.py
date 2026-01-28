@@ -38,7 +38,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-# Stockage des sessions de chat (en mémoire pour MVP)
+
 # TODO: Migrer vers Redis/Database pour production
 chat_sessions = {}
 
@@ -122,7 +122,7 @@ async def chat(message: ChatMessage):
             "message": "Quels sont les objectifs de CitizenLab ?",
             "session_id": "user123",
             "top_k": 5,
-            "show_sources": true
+            "show_sources": false 
         }
     """
     if chatbot is None:

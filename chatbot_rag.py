@@ -281,9 +281,7 @@ class ChatbotRAG:
         return docs
     
     def load_all_files(self):
-        """
-        Charge tous les fichiers (CSV, TXT, PDF) depuis knowledge_base
-        """
+
         print(f"\n📂 Chargement des fichiers depuis {self.csv_folder}...")
         
         base_path = Path(self.csv_folder)
@@ -425,16 +423,16 @@ class ChatbotRAG:
         
         context_text = "\n\n".join(context_parts)
         
-        system_prompt = f"""Tu es un assistant conversationnel expert sur CitizenLab Sénégal et les initiatives de gouvernance numérique en Afrique.
+        system_prompt = f"""Tu es un assistant conversationnel expert sur l'initiative citoyenne de Africtivistes en Afrique: CitizenLab.
 
 CONTEXTE PERTINENT (organisé par catégorie):
 {context_text}
 
 INSTRUCTIONS:
 - Réponds en français de manière naturelle et conversationnelle
-- Base-toi PRIORITAIREMENT sur le contexte fourni ci-dessus
+- Base-toi PRIORITAIREMENT sur le contexte fourni ci-dessus 
 - Pour les PDFs, le contexte peut provenir de différentes parties du document
-- Si l'information n'est pas dans le contexte, dis-le honnêtement
+- Si la question n'est pas dans le contexte, dis que tu n'as pas d'informations à ce sujet
 - Sois précis avec les chiffres et les faits
 - Utilise un ton amical et accessible"""
 
@@ -470,20 +468,20 @@ INSTRUCTIONS:
         relevant_docs = self.search(user_message, top_k=top_k, category_filter=category_filter)
         response = self.generate_response(user_message, relevant_docs)
         
-        if show_sources and relevant_docs:
-            sources = "\n\n📚 Sources utilisées:"
-            seen_sources = set()
-            for i, doc in enumerate(relevant_docs[:3], 1):
-                source = doc['metadata'].get('source', 'Inconnu')
-                category = doc['metadata'].get('category', 'general')
-                doc_type = doc['metadata'].get('type', '')
+        # if show_sources and relevant_docs:
+        #     sources = "\n\n📚 Sources utilisées:"
+        #     seen_sources = set()
+        #     for i, doc in enumerate(relevant_docs[:3], 1):
+        #         source = doc['metadata'].get('source', 'Inconnu')
+        #         category = doc['metadata'].get('category', 'general')
+        #         doc_type = doc['metadata'].get('type', '')
                 
-                source_key = f"{category}/{source}"
-                if source_key not in seen_sources:
-                    type_icon = "📄" if doc_type == "pdf" else "📝" if doc_type == "txt" else "📊"
-                    sources += f"\n   {i}. {type_icon} [{category}] {source}"
-                    seen_sources.add(source_key)
-            response += sources
+        #         source_key = f"{category}/{source}"
+        #         if source_key not in seen_sources:
+        #             type_icon = "📄" if doc_type == "pdf" else "📝" if doc_type == "txt" else "📊"
+        #             sources += f"\n   {i}. {type_icon} [{category}] {source}"
+        #             seen_sources.add(source_key)
+        #     response += sources
         
         return response
     
