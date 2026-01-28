@@ -122,7 +122,7 @@ async def chat(message: ChatMessage):
             "message": "Quels sont les objectifs de CitizenLab ?",
             "session_id": "user123",
             "top_k": 5,
-            "show_sources": false 
+            "show_sources": false
         }
     """
     if chatbot is None:
