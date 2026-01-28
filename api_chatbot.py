@@ -1,7 +1,7 @@
 """
 API REST pour le Chatbot CitizenLab
 Framework: FastAPI
-Usage: Intégration sur site web Citizenlab
+Usage: Intégration sur site web existant
 """
 
 from fastapi import FastAPI, HTTPException, Header
@@ -59,7 +59,7 @@ async def startup_event():
     
     if not chatbot.load_vector_index():
         print("📚 Création de l'index vectoriel...")
-        chatbot.load_csv_files()
+        chatbot.load_all_files()  # Charge CSV + TXT
         chatbot.create_vector_index()
     
     print("✅ Chatbot prêt!")
