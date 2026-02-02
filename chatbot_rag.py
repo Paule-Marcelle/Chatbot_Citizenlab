@@ -53,7 +53,8 @@ class ChatbotRAG:
         self.model = "llama-3.3-70b-versatile"
         
         print("📥 Chargement du modèle d'embeddings...")
-        self.embedder = SentenceTransformer('sentence-transformers/paraphrase-multilingual-mpnet-base-v2')
+        #self.embedder = SentenceTransformer('sentence-transformers/paraphrase-multilingual-mpnet-base-v2')
+        self.embedder = SentenceTransformer('sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2')
         
         self.documents = []
         self.embeddings = None
