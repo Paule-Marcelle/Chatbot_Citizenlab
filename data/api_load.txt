@@ -3,4 +3,6 @@ cd "C:\Users\bmd tech\Chatbot_Citizenlab"
 python -m http.server 3000
 ```
 
+
+
 Puis ouvrez : `http://localhost:3000/chatbot_widget.html`
